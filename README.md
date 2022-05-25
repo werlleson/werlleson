@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Laravel, React and Docker**
 
-- 📫 How to reach me **pedroicaro35@gmail.com**
+- 📫 How to reach me **werllesonlima013@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pedroirm/](https://www.linkedin.com/in/pedroirm/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/werlleson-lima-18b993195/](https://www.linkedin.com/in/werlleson/)
 
 - ⚡ Fun fact **I love dogs and cats 🐶 💖 🐱**
 
