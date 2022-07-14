@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Werlleson</h1>
 <h3 align="center">A Front-end Jr Developer</h3>
 
-- 🌱 I’m currently learning **JavaScrit and React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 📫 How to reach me **werllesonlima013@gmail.com**
 
