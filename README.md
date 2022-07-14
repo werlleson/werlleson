@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **werllesonlima013@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/werlleson-lima-18b993195/]
 
 - ⚡ Fun fact **I love dogs and cats 🐶 💖 🐱**
 
