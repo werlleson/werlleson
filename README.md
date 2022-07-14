@@ -22,4 +22,5 @@
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
-<a role="link" tabindex="0" rel="noopener" target="_blank" href="https://logodownload.org/html-5-logo/html5-logo/" aria-label="Visitar Logo Download" class="eHAdSb" data-ved="0CAsQjRxqFwoTCOD0icH--PgCFQAAAAAdAAAAABAW"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTul19UsSWl2dqVMGReiM9esRghV8sQPreNDgopBocyvrHbUSxGnRUA0FEORgjo0tBc0A&amp;usqp=CAU" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="html5-logo – PNG e Vetor - Download de Logo" data-noaft="1" style="width: 189px; height: 267px; margin: 0px;"><span class="VSIspc" jsname="eQ3Oyb" style="margin: 0px;">3.500 × 4.940</span></a>
+<a href="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png"> 
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="40" height="40"> </a>
